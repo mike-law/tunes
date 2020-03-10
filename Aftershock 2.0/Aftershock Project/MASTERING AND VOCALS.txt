@@ -1,0 +1,23 @@
+https://www.reddit.com/r/edmproduction/comments/af6fs0/9_pro_mastering_tips_for_beginners_credits/
+https://blog.landr.com/5-tips-avoid-ruining-mix-muddy-sound/ 
+
+1- Glue Compressor (except the subs)
+2- Saturator for drums/hits
+3- EQ for bad frequencies on master
+4- Limiter on master
+
+VOCALS:
+Main (try to split quiet and loud into two tracks):
+- Ableton Mono to Stereo
+- EQ
+- Aural Exciter
+- Compressor
+- Gentle Reverb
+
+Harmony:
+- Ableton Mono to Stereo
+- EQ
+- H Delay
+- Doubler/Quadrupler 
+- Compressor
+- Moderate Reverb

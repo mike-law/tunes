@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “Surrender.aep”
+
+Rendering started on 9/2/2017 at 9:40:44 PM
+
+  9/2/2017 9:40:44 PM: Starting composition “Audio Spectrum”.
+
+  Output To: G:\Jeffrey's Large Storage\School Stuff\Media\CAYJAM Files\Surrender MV\Audio Spectrum_2.avi    9/2/2017 9:46:01 PM: Finished composition “Audio Spectrum”.
+
+
+  Total Time Elapsed: 5 Min, 16 Sec
+Log closed on 9/2/2017 at 9:46:01 PM
+
